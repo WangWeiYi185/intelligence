@@ -1,0 +1,1 @@
+\物件，屬於trasnalte_prompt內部函數的閉包 (local address: 0x10fc26800)\u003e\
